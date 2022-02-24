@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Goodness proved to be the best protection from the arrests of all harmes in a sermon preached before the University, upon Innocents Day, in great St. Maries Church in Cambridge / by Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52859</idno>
+            <idno type="STC">Wing N520</idno>
+            <idno type="STC">ESTC R12406</idno>
+            <idno type="EEBO-CITATION">13127088</idno>
+            <idno type="OCLC">ocm 13127088</idno>
+            <idno type="VID">97858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Goodness proved to be the best protection from the arrests of all harmes in a sermon preached before the University, upon Innocents Day, in great St. Maries Church in Cambridge / by Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Peter, 1st, III, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97858:1"/>
+            <pb facs="tcp:97858:1" rendition="simple:additions"/>
+            <p>GOODNESS Proved to be the BEST PROTECTION FROM THE ARRESTS OF ALL HARMES.</p>
+            <p>In A SERMON Preached before the Univerſity, upon <hi>Innocents Day,</hi> in <hi>Great St. MARIES</hi> Church in CAMBRIDGE.</p>
+            <p>By <hi>Robert Neville,</hi> B. D. Rector of <hi>Anſty.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Billingſley,</hi> at the Printing-Preſs under the <hi>Piazza</hi> of the <hi>Royal Exchange,</hi> 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97858:2"/>
+            <pb facs="tcp:97858:2"/>
+            <head>To the Worſhipful my much Honoured Friend, <hi>RALPH FREEMAN,</hi> 
+               <abbr>Eſq</abbr> One of His Majeſty's Deputy-Lieutenants and Juſtices of the Peace for the County of HERTFORD.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>YOU may perhaps be ſurpriſed to find your Name Uſurped by me, to Grace and Honour this trifle of a Sermon; unleſs you pleaſe to conſider, that it is the uſual Fate of Perſons of your obliging Temper, to receive Perſecutions of this Nature, as Returns of your Candour and Goodneſs: And I have only this to at one for the Preſumption of this Dedication; that I thought no perſon ſo fit to Patronize a diſcourſe of Goodneſs, as him, in whom all thoſe bright Stars, that make up the Conſtellation, ſhine with ſo great a luſtre.</p>
+            <p>Among all other Virtues which are reſplendent in you, give me leave to trumpet abroad your exemplary Sobriety, which does approach ſo near to ſingularity in this age, that I can ſcarcely pay you your due praiſes, without a Satyr on moſt others; who, by their intem<g ref="char:EOLhyphen"/>perate Quaffing, make their Houſes, like thoſe In<g ref="char:EOLhyphen"/>chanted
+<pb facs="tcp:97858:3"/>Caſtles ſpoken of in <hi>Romances,</hi> which when a man hath once enter'd, there's no finding his way out again, by reaſon of an Inchanted Fountain there, the free Drinking whereof layes him and his reaſon both aſleep: So that now a man can hardly avoid the Im<g ref="char:EOLhyphen"/>putation of a Rude and Uncivil, unleſs he loſe the Re<g ref="char:EOLhyphen"/>putation of a Sober Man, and Sacrifice his health to the humour of his drunken Aſſociates, and his Soul to the Devil, whoſe Factors they are, and for whoſe intereſt they drive on that drunken Trade: But to theſe inconveniencies no Perſon is expoſed under your Roof, where tho nothing (that may ſpeak a generous and hearty welcom) is wanting, yet you are a profeſſed Enemy to all Exceſs; and your Viſitants may ſay the ſame of themſelves, which <hi>Socrates</hi> did of his Scholars, <hi>that they were well the next day.</hi> I have dwelt ſo long upon this part of your Commendations, not becauſe you deſerve not greater, but becauſe I am not able to ex<g ref="char:EOLhyphen"/>preſs them in other Subjects; like an ill Swimmer, I have willingly ſtaid long in my own depth; and though I am deſirous to perform more, yet I am loth to venture too far in the large Ocean of your Praiſes; leaſt by my ill commending your other Virtues, I ſhould ſo far incur your diſpleaſure as to forfeit that Title, which I value my Self upon; Namely, That of</p>
+            <closer>
+               <signed>
+                  <hi>Honoured Sir,</hi> Your Moſt Faithful and Humble Servant <hi>R. Neville.</hi>
+               </signed>
+               <dateline>Anſty, <date>
+                     <hi>Sept.</hi> 23th. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97858:3"/>
+            <head>THE CHRISTIANS BEST PROTECTION From the Arreſts of all HARMS.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 Epiſtle general of St. <hi>Peter,</hi> chap. 3. ver. 13.</bibl>
+                  <p>And who is he that will Harm you, if ye be followers of that which is good?</p>
+               </q>
+            </epigraph>
+            <p>WEre all who make a fair and plauſible ſhew of Religion, really ſuch as they pretend to be; diſcourſes of this nature would be no more needful than the Commendations
+<pb n="2" facs="tcp:97858:4"/>of a great beauty, to one who is already a paſ<g ref="char:EOLhyphen"/>ſionate admirer of it. But on the contrary we ſee, how common it is for men, firſt to throw dirt in the face of Virtue and Religion, and then perſwade themſelves 'tis her natural com<g ref="char:EOLhyphen"/>plexion; they repreſent it to themſelves in a ſhape not pleaſing to them, and then bring that as a plea, why they give it no better entertain<g ref="char:EOLhyphen"/>ment: Men muſt know, that though Virtue and Goodneſs be ſo fair and complaiſant as to draw our affections, yet ſhe is ſo modeſt with<g ref="char:EOLhyphen"/>all; as to expect to be courted by us; and it may be deny our firſt ſuit, to prompt us to a ſecond addreſs, and heighten our importunity: and nothing hath oftner forbid the Banns be<g ref="char:EOLhyphen"/>tween men and Religion, than their Neglect and Contempt of her, and abuſing her by falſe and ſlanderous reports; by ſaying, <hi>That Religi<g ref="char:EOLhyphen"/>on is the Mother of Danger;</hi> and that the place of her abode, (like that of <hi>Archimedes</hi> grave) is <hi>ſeptus Vepribus &amp; dumetis,</hi> beſet with Briars and Brambles. I have read of the Cannibal <hi>Anakims</hi> in the Confines of the Promiſed Land, that de<g ref="char:EOLhyphen"/>vour all that Travel towards that Region; but let not our Melancholick and Aguiſh fancies tranſplant all theſe into <hi>Chriſtendom,</hi> and make them Emblems of thoſe Harms and Dangers, that attend thoſe who are followers of Good<g ref="char:EOLhyphen"/>neſs;
+<pb n="3" facs="tcp:97858:4"/>don't let us fancy that there ſtands an Angel with a Flaming Sword, to keep us out of this Paradiſe of Virtue; nor report to the World, that if a Man hath no other guard but his own <hi>Innocence,</hi> he lies open to the aſſaults of all dangers and misfortunes, which is a miſtake ſufficiently confuted by St. <hi>Peter,</hi> who aſſures us, <hi>That Goodneſs and Innocence is our beſt Protecti<g ref="char:EOLhyphen"/>on from the Arreſts of all Harms,</hi> in theſe words of the Text. <hi>And who is he that will harm ye, if ye be followers of that which is</hi>
+               <note n="(a)" place="margin">Quis eſt q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i nocere aut velit aut poſſit?</note> 
+               <hi>good?</hi> Upon which words <hi>Vorſtius</hi> makes this Paraphraſe; <hi>Who either will or can harm you?</hi> as if the Apo<g ref="char:EOLhyphen"/>ſtle had ſaid, you that are followers of Good<g ref="char:EOLhyphen"/>neſs, may believe your ſelves ſecure, and above the Sphere of all Harms: For there are ſcarce any ſo impious that will, or if they are ſo ma<g ref="char:EOLhyphen"/>liciouſly bent as to attempt it, they ſhall not have power to Harm you: which being pre<g ref="char:EOLhyphen"/>miſed, the Text will fall the more naturally into theſe two parts.</p>
+            <list>
+               <item>Firſt, The Chriſtians Protection from all Harms in theſe words, <hi>Who is he that will harm ye?</hi> or as <hi>Vorſtius</hi> gloſſes upon the words, <hi>Who will or can harm ye?</hi>
+               </item>
+               <pb n="4" facs="tcp:97858:5"/>
+               <item>Secondly, The Qualification that entitles him to this Protection, namely his being a Re<g ref="char:EOLhyphen"/>tainer to Goodneſs, or as my Text calls him, <hi>A follower of that which is good.</hi>
+               </item>
+            </list>
+            <p>Firſt on the firſt, or the Chriſtians Protecti<g ref="char:EOLhyphen"/>on from all Harms, in theſe words, <hi>Who is he that will Harm ye?</hi> a Chriſtian is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, out of gun-ſhot, no real evil can annoy or moleſt him: He hath an Almighty protection to skreen and ſecure him from it; if he will put on God's Livery, the Robes of Righteouſneſs and enter into Gods ſervice; if he will get ſome dependance upon the Court of Heaven, wait upon God, and become his Servant in Goodneſs and Innocence, he ſhall have a Pro<g ref="char:EOLhyphen"/>tection from the Arreſts of all Harms; and this brings me to the ſecond general part in the Text, where we have</p>
+            <p>Secondly, The Qualification that entitles a Chriſtian to this Protection, namely, his be<g ref="char:EOLhyphen"/>ing a Retainer to Goodneſs, or (as my Text calls him) <hi>A follower of that which is good: Rari quippe Boni,</hi> now becauſe good men are ſcarce and Rare, ſo that by the great ſcarcity and dearth thereof, it is not eaſie to diſcover what
+<pb n="5" facs="tcp:97858:5"/>True Goodneſs is: it will be a worthy diſqui<g ref="char:EOLhyphen"/>ſition to Examine,
+<list>
+                  <item>Firſt, <hi>What Goodneſs is?</hi>
+                  </item>
+                  <item>Secondly, <hi>What are the good Fruits and Effects of it.</hi> And</item>
+                  <item>Thirdly, <hi>From what Harms and Evils all Re<g ref="char:EOLhyphen"/>tainers to it are Protected?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, I ſhall Examine, <hi>What Goodneſs is?</hi>
+            </p>
+            <p>Goodneſs is a glorious Conſtellation, made up of theſe bright Stars, theſe Heavenly Vir<g ref="char:EOLhyphen"/>tues and Graces, Love, Compaſſion, Courte<g ref="char:EOLhyphen"/>ſie, Abſtaining from Sin, doing works of Mer<g ref="char:EOLhyphen"/>cy, Unity, Peaceableneſs; as you may ſee in the eighth, ninth, tenth, and eleventh verſes of the Chapter of my Text; where the Apoſtle exhorts the Jewiſh Converts to be of <hi>One Mind, having Compaſsion one of another, to Love as Bre<g ref="char:EOLhyphen"/>thren, to be Pitiful, to be Courteous, not rendring evil for evil, or railing for railing, but contrarywiſe Bleſsing: For he that will love Life, and ſee good Dayes, let him refrain his Tongue from evil, and his Lips that they ſpeak no guile: Let him eſchew evil and do good, let him ſeek Peace and enſue it.</hi> After an enumeration of all which Chriſtian Graces, having in the twelfth verſe of this Chapter, de<g ref="char:EOLhyphen"/>clared
+<pb n="6" facs="tcp:97858:6"/>red Gods favour and kindneſs to good Men that are poſſeſt of them, he gives them this Protection from all Harms, in theſe words of my Text, <hi>And who is he that will harm ye, if ye be followers of that which is good?</hi> Of all the Attri<g ref="char:EOLhyphen"/>butes, by which a man may be ſtyled, Good<g ref="char:EOLhyphen"/>neſs hath the chief place and ſoveraignty; and therefore God was called by the Heathens, firſt <hi>Optimus,</hi> then <hi>Maximus;</hi> firſt, Good, and then Great; there being no true Greatneſs without Goodneſs; and therefore that execrable and bloody Tyrant, who cauſed his Executioners to turn the Cradles of the Innocent Babes of <hi>Bethlehem</hi> into Graves, and rock them into a Dead ſleep, was improperly ſtyled <hi>Herod the Great,</hi> becauſe he was far from being <hi>Herod the Good.</hi> A mere great Man without Goodneſs, is only ſo much Nobility by Patent, not by Merit; or ſo much Heraldry without Honour; he ſtayes perhaps a while in the World, but 'tis only to fill up a number, and when he's gone there wants One, and there's an End: But when greatneſs and Goodneſs meet in One Per<g ref="char:EOLhyphen"/>ſon, he is highly to be valued and eſteemed, like an Emrald or a Ruby ſet in Gold,
+<q>
+                  <l>—aut ubi flavo</l>
+                  <l>Argentum, Pariuſve Lapis cum cingitur auro;</l>
+               </q>
+            </p>
+            <pb n="7" facs="tcp:97858:6"/>
+            <p>Every man is to be eſteemed and honoured as he is ſet down in Gods Herauldry, and there Goodneſs hath the pre-eminence, <hi>Proverbs chap<g ref="char:EOLhyphen"/>ter</hi> 12. <hi>verſe</hi> 26. <hi>The Righteous is better then his Neighbour,</hi> all good Men are of a Divine Ex<g ref="char:EOLhyphen"/>traction; they may derive their Pedigree from God himſelf; and ſay with St. <hi>Paul,</hi> and the Heathen Poet whom he quotes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>We are his Off-ſpring, Acts</hi> 17.28. and may therefore boaſt of his Celeſtial Pedigree, with better reaſon than <hi>Glaucus</hi> did in <hi>Homer,</hi> in theſe words,
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>I glory and boaſt of this Celeſtial deſcent and extraction: and St. <hi>Hierom</hi> would ſay of <hi>Paula</hi> a Noble Virgin, deſcended from <hi>Aeneas</hi> on the Fathers ſide, and from <hi>Agamemnon</hi> on the Mothers, that ſhe was <hi>Genere Nobilis, Sanctitate Nobilior;</hi> Noble in Stock but more Noble in Goodneſs and Sanctity; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the pious and good man is the beſt Man in all regards, ſaith <hi>Clemens</hi> of <hi>Alexandria.</hi>
+            </p>
+            <p>External Power and grandeur may render us dreadful and formidable; depth of Learn<g ref="char:EOLhyphen"/>ing may raiſe us in the eſteem of the World,
+<pb n="8" facs="tcp:97858:7"/>and make us the objects of all mens admirati<g ref="char:EOLhyphen"/>on; our large Revenues and vaſt Eſtates may purchaſe us external Reſpect and Honour, make all men ſtrike Sail to us, and pay us the conſtant tribute of outward Obeiſance; but that which commands mens Hearts, charms their Affections, and chains their Souls to us, is Goodneſs; which is a great Friend to humane Converſation, the Foundreſs of all Societies; all other excellencies (how great ſoever) ap<g ref="char:EOLhyphen"/>pear Melancholy and ſolitary; they only put on a glorious Aſpect when in the poſſeſſion of one, or few perſons; and once made common grow cheap and contemptible; but Goodneſs is better natured, and of ſo publick a Spirit, that without being communicable, it may no more be called Goodneſs, than the Sun without its diffuſive and expanſive light, may be called the Sun: as the good mans Religion, ſo alſo is his goodneſs and compaſſion Catholick: He thinks it a kind of moral Judaiſm, to tye it either to perſons or places; as knowing that he is commanded by St. <hi>Paul, Galatians</hi> 6.10. <hi>To do good to all men;</hi> and his language is what <hi>Tullie</hi>'s was, in one of his Epiſtles to <hi>Lentulus, I</hi>
+               <note n="(b)" place="margin">T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntùm eni<g ref="char:EOLhyphen"/>tor ut neque ami<g ref="char:EOLhyphen"/>cis, neque etiam alienioribus, ope<g ref="char:EOLhyphen"/>râ, conſilio, labo<g ref="char:EOLhyphen"/>re, deſim.</note> 
+               <hi>endeavour only that I may not be wanting, either to Friends or Strangers, by my Pains, Counſels, or
+<pb n="9" facs="tcp:97858:7"/>Labours,</hi> and he really is, what St. <hi>Hierom</hi> ad<g ref="char:EOLhyphen"/>viſed <hi>Pammachius</hi> to be, <hi>caecorum oculi, manus de<g ref="char:EOLhyphen"/>bilium, claudorum pes,</hi> eyes to the blind, a hand to the weak, and a foot to the lame, and con<g ref="char:EOLhyphen"/>ſequently muſt needs be very acceptable, and dear to them; and this brings me to the ſe<g ref="char:EOLhyphen"/>cond particular, namely,</p>
+            <p>
+               <hi>The Good Fruits and Effects of Goodneſs,</hi> which are theſe that follow.</p>
+            <list>
+               <item>1. 'Tis a Lure to bring us the Love of Men.</item>
+               <item>2. It draws and attracts the Love of God.</item>
+               <item>3. It aſſimilates and makes us like God.</item>
+            </list>
+            <p n="1">1. 'Tis a Lure, to bring us the Love of men; The good man may have that Character, which was given of the Roman Emperor <hi>Ve<g ref="char:EOLhyphen"/>ſpaſian, Deliciae humani generis,</hi> the Delight of Mankind, the darling of the World; for by his Courteſie, Charity, Civility, and Peaceable<g ref="char:EOLhyphen"/>neſs, he obliges all men, makes all his Friends and thereby becomes alſo a Friend to himſelf; for as <hi>Seneca</hi> ſays, <hi>Qui ſibi amicus omnibus amicus,</hi> he that is a Friend to himſelf, is a Friend to all the World: the good man will, if it be poſ<g ref="char:EOLhyphen"/>ſible, quarrel with no man; he is no mans E<g ref="char:EOLhyphen"/>nemy,
+<pb n="10" facs="tcp:97858:8"/>and therefore no man is an Enemy to him; and we may ſay the ſame of him, that <hi>Cornelius Nepos</hi> did of <hi>Pomponius Atticus,</hi>
+               <note n="(c)" place="margin">Nullas ini<g ref="char:EOLhyphen"/>micitias g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſit, quòà nec laedebat quenquam, neque ſi quam injuriam acceperat, male<g ref="char:EOLhyphen"/>óat ulciſci quàm Obliviſci.</note> He was infeſted with no Enmity, becauſe he hurt no man, and if he had received an injury, he was more willing to forget then to revenge it; ſo that goodneſs is the beſt Policy, even in a worldly account; 'tis the beſt Decoy to allure men to our Friendſhip. There is no ſuch bait whereby to catch men as goodneſs is, and it may therefore borrow our Saviours words, which he ſpake to <hi>Peter</hi> and <hi>Andrew</hi> his Brother, <hi>Matthew</hi> 4.19. <hi>Follow me and I will make you Fiſhers of men:</hi> And then</p>
+            <p n="2">2. Goodneſs draws and attracts the Love of of God; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God delights as much in good men as in Heaven it ſelf; and <hi>Hierocles,</hi> who recites that golden verſe of <hi>Pythagoras,</hi> does himſelf affirm, <hi>That God hates no man;</hi> but as for the good man,<note n="(d)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> he embraces him with an extraordinary Affecti<g ref="char:EOLhyphen"/>on: and it was a ſaying much uſed by the <hi>Pythagoreans,</hi> That<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> God hath not in the whole Earth, a more familiar place of Reſi<g ref="char:EOLhyphen"/>dence, than the pure, the good Soul. A good man is Gods Heaven upon Earth; and there<g ref="char:EOLhyphen"/>fore
+<pb n="11" facs="tcp:97858:8"/>when the Philoſopher <hi>Heraclitus</hi> came by accident into a houſe where a good man dwelt, he cryed out preſently, <hi>Hic Dij habitant,</hi> the Gods dwell here; the Philoſopher tells us that thoſe things<note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> which are like and related to us, are for the moſt part pleaſing; and how pleaſing then muſt the good man be to God, who reſembles him in Goodneſs?</p>
+            <p n="1">1. <hi>Tamerlain</hi> being preſented with a Pot of Gold, askt whether the Gold had his Fathers Stamp upon it, and being told that it had not his Fathers, but the Roman Stamp, he refuſed to receive it; Goodneſs is Gods ſtamp, and as holy <hi>Ignatius</hi> tells us, <hi>a good man</hi>
+               <note n="(g)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>is a piece of Mony of Gods own Coin and Stamp;</hi> now if God does not ſee his ſtamp of goodneſs upon us, he will never Own us for his. The very proper cha<g ref="char:EOLhyphen"/>racter, and eſſential Tincture of God, is no<g ref="char:EOLhyphen"/>thing elſe but goodneſs: nay I may be bold to add, that God is therefore God, becauſe he is the higheſt and moſt perfect good: Whatſoever God doth in the World, he doth it, as 'tis ſuita<g ref="char:EOLhyphen"/>ble to the higheſt goodneſs; The firſt Idea and Copy whereof is his own Eſſence; virtue and goodneſs in the Creatures, as <hi>Plato</hi> well diſcourſes, are not therefore good becauſe God loves them, and will have them to be accoun<g ref="char:EOLhyphen"/>ted
+<pb n="12" facs="tcp:97858:9"/>ſuch; but rather, God therefore loves them, becauſe they are in themſelves ſimply good.</p>
+            <p n="3">3. A third good Fruit and Effect of good<g ref="char:EOLhyphen"/>neſs, is, <hi>That it Aſsimilates and makes us like God.</hi>
+            </p>
+            <p>Goodneſs is that wherein God himſelf doth moſt delight; and therefore all the Actions of our Saviour, while he was converſant here were but ſo many teſtifications of his Mercy and Goodneſs, without the leaſt tincture of ſe<g ref="char:EOLhyphen"/>verity, two onely excepted, his driving the Buyers and Sellers out of the Temple, and Curſing the Fig-tree; and yet in both theſe, his Mercy ſeemed to ride in Triumph, and make Judgment follow its triumphant Chari<g ref="char:EOLhyphen"/>ot; the firſt of theſe actions, though it brought ſome ſmall reproach and ſmart upon the ob<g ref="char:EOLhyphen"/>jects of it, yet it did them no great Harm; and the ſecond had as ſmall a Taſt of ſeverity, as being exerciſed upon a barren-Tree, a dull ſenſeleſs Creature, uncapable of ſmart or pu<g ref="char:EOLhyphen"/>niſhment, but was meerly exemplary to us; Chriſt being pleaſed to puniſh our unfruitful<g ref="char:EOLhyphen"/>neſs in the Fig-tree, as the <hi>Perſians</hi> were ac<g ref="char:EOLhyphen"/>cuſtomed to beat the garments in ſtead of the
+<pb n="13" facs="tcp:97858:9"/>bodies of their Grandees, when they had offended.</p>
+            <p>
+               <note n="(g)" place="margin">Summa <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Religio im<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> quem colis.</note>
+               <hi>'Tis the beſt and higheſt piece of Religion to imitate and reſemble the Object of our Worſhip,</hi> ſays <hi>Lactantius.</hi>
+               <note n="(h)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>And a man cannot Worſhip him aright, whom he does not imitate,</hi> ſays <hi>Clemens</hi> of <hi>Alexandria;</hi> we muſt therefore endeavour to imitate and reſemble God in goodneſs; good<g ref="char:EOLhyphen"/>neſs being that God-like Quality, which ex<g ref="char:EOLhyphen"/>alts our humane Nature, ſublimates and heigh<g ref="char:EOLhyphen"/>tens it into Divinity, and makes us like God: and thus having ſhown you the good Fruits and Effects of goodneſs, I come now to ſhew you.</p>
+            <p>Thirdly, <hi>From what Harms and Miſchiefs it Protects us;</hi> as namely,
+<list>
+                  <item>Firſt, From all thoſe Harms and Miſchiefs that men can do us.</item>
+                  <item>Secondly, From all the Harms and Miſchiefs that ariſe from ſin.</item>
+                  <item>Thirdly, From thoſe eternal Harms and Torments, which thoſe who are ſtrangers to goodneſs ſhall ſuffer in Hell. Firſt on the</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> That goodneſs will protect us from all thoſe Harms and Miſchiefs that Men can do us; <hi>Innocence is our moſt faithful guard; this is
+<pb n="14" facs="tcp:97858:10"/>our</hi>
+               <note n="(i)" place="margin">Fideliſſima eſt Cuſtodia ipſa innocentia. Haec Arx inacceſſa, hoc inexpugnabi<g ref="char:EOLhyphen"/>le munimentum, munimento non egere.</note> 
+               <hi>moſt inexpugnable and ſtrong Fortreſs; to be ſo good, ſo innocent, as to need No Guard, No For<g ref="char:EOLhyphen"/>treſs,</hi> ſays <hi>Pliny</hi> in his <hi>Panegyrick</hi> to <hi>Trajan.</hi> It was <hi>Seneca</hi>'s complaint, <hi>that he</hi>
+               <note n="(k)" place="margin">Vix quen<g ref="char:EOLhyphen"/>quam inveni qui aper to oſtio vive<g ref="char:EOLhyphen"/>re poſſit.</note> 
+               <hi>could rarely meet with any, that might venture to live with open doors,</hi> and 'tis the good man only that dares live ſo; his innocence will ſhield him from all Harms; from the worſt that men can breathe or Act againſt him: all the Harm that men can do us, is either,
+<list>
+                  <item>Firſt, <hi>By Words,</hi> or,</item>
+                  <item>Secondly, <hi>By Actions.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And the good, the Innocent man, is proof againſt both theſe</p>
+            <p>Firſt, Men cannot hurt or harm him by <hi>Words.</hi> His innocency is a ſhelter, a Sanctuary from the poiſoned Arrows of a ſlanderous and evil Tongue: The whole Earth is not big e<g ref="char:EOLhyphen"/>nough to caſt a ſhadow, totally to Eclipſe a good Mans credit; the Teeth of his enemies malice many times do but file his innocence the brighter; and (like rough Diamonds) the more 'tis cut it ſhines with the greater luſtre: They are not only the beauties of a Face, which draw new Graces from thoſe black Spots and Patches, (which one would think) ſhould diſ<g ref="char:EOLhyphen"/>figure
+<pb n="15" facs="tcp:97858:10"/>them: thoſe ſhadows which a ſlande<g ref="char:EOLhyphen"/>rous Tongue caſts upon Innocence, makes it but the more remarkable, in the ſame manner as an Eclipſe is a cauſe of the Suns being more taken notice of: The teſtimony of a good Con<g ref="char:EOLhyphen"/>ſcience is more to be valued by us than all Re<g ref="char:EOLhyphen"/>ports, though there were neither Friends, nor Enemies, to Praiſe or Reproach us; Beauty and Comelineſs will always find ſatisfaction enough in the glaſs, Deformity vexation: now the Conſcience does the ſame for Vertue or Vice, that a Mirrour or Glaſs does for faces: We ſhould therefore ſeek our Conſolation in our own Breaſts and Conſciences, and when we have done all we can, to deſerve a good name, we may ſlight and contemn a bad one; and be no more troubled when we are ſaid to be guilty of what we are not; than if we were ſaid to be ſick, when we find our ſelves well; and what wiſe man will be troubled at that, which ſhould rather move his laughter? And as goodneſs gives us a protection from all harms by <hi>Words,</hi> ſo</p>
+            <p>Secondly, Does it ſhelter us from all the Harms that can ariſe from the <hi>Actions of Men; Men can but kill the body,</hi> the death thereof ter<g ref="char:EOLhyphen"/>minates
+<pb n="16" facs="tcp:97858:11"/>and bounds their Malice; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſays <hi>Socrates;</hi> they may kill but they cannot hurt the good and Innocent; Death being no more to them than a dark En<g ref="char:EOLhyphen"/>try to a glorious Palace, or a Shady Wilder<g ref="char:EOLhyphen"/>neſs to a promiſed <hi>Canaan;</hi> thus <hi>Herod</hi>'s Tra<g ref="char:EOLhyphen"/>gical and Barbarous Cruelty acted upon the Innocent Babes of <hi>Bethlehem,</hi> did but accelerate and haſten their eternal bliſſe; theſe tender Plants were but tranſplanted from Earth to Heaven, but removed from their Earthly mo<g ref="char:EOLhyphen"/>thers breaſt, to their heavenly Fathers boſom; the firſt bloſſoms of their Infancy were by a compendious improvement ripen'd into hea<g ref="char:EOLhyphen"/>venly Fruit; God lent them the Wings of a Dove to fly to their Eternal reſt, before ſome of them were able to uſe their Feet. Now that goodneſs, that Innocence, will ſhelter us from all the harms that can ariſe from the <hi>Acti<g ref="char:EOLhyphen"/>ons of Men,</hi> I ſhall further prove to you by theſe two Reaſons and Arguments.</p>
+            <list>
+               <item>1. Becauſe it procures us Almighty God for our Protector.</item>
+               <item>2. Becauſe it procures us the good Angels for our Guard.</item>
+            </list>
+            <pb n="17" facs="tcp:97858:11"/>
+            <p n="1">1. Becauſe it procures us Almighty God for our Protector, and this is intimated to us in the verſe foregoing my Text, <hi>for the Eyes of the Lord are over the Righteous,</hi> ſo that he may with confidence borrow thoſe words of the Pſalmiſt, <hi>Pſalm</hi> 56.11. <hi>In God have I put my truſt,</hi> I <hi>will not fear what man can do unto me;</hi> or ſay as <hi>Paris</hi> did in <hi>Homer, God</hi>
+               <note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>is on our ſide,</hi> and if God be with him what need he care or value, who is againſt him? One in <hi>Livy</hi> ſaid,<note n="(m)" place="margin">Satis ſibi Copiarum cum Publio Decio, &amp; nunquam nimi<g ref="char:EOLhyphen"/>um hoſtium fore.</note> 
+               <hi>That he had Forces and Strength enough, having</hi> Decius <hi>on his ſide, and that he could never have too many Enemies.</hi> This a good man may apply to himſelf, and ſay, that God alone is Forces and Strength enough, and having him his Friend and Aſſiſtant, he can never have Enemies e<g ref="char:EOLhyphen"/>nough to deſerve his fear, but may buoy up himſelf with thoſe words of Holy <hi>Anſelm</hi>
+               <note n="(n)" place="margin">Nemo te laedat niſi qui deum vincat.</note> 
+               <hi>That none can hurt him unleſs they can firſt conquer God;</hi> unleſs they can overcome Omnipotency it ſelf, ſlay Immortality, and confound the whole Hoſt of Heaven: As they ſay in Philoſophy, <hi>That the Concupiſcible faculty of the Soul ſets the Ira<g ref="char:EOLhyphen"/>ſcible on work; So Gods Love to the Good and Inno<g ref="char:EOLhyphen"/>cent, quickens and incenſes his Wrath againſt their E<g ref="char:EOLhyphen"/>nemies.</hi> A ſenſe whereof encouraged <hi>Tertullian</hi> to diſcourſe at this rate to <hi>Scapula</hi> the Preſident of
+<pb n="18" facs="tcp:97858:12"/>
+               <hi>Africa,</hi>
+               <note n="(o)" place="margin">Nulla Civi<g ref="char:EOLhyphen"/>tas impunè latu<g ref="char:EOLhyphen"/>ra eſt ſanguinis noſtri Effuſionem.</note> 
+               <hi>That no City ſhould go unpuniſht, where their innocent blood had been ſhed;</hi> and he gives him a Catalogue of ſeveral Preſidents, <hi>who</hi>
+               <note n="(p)" place="margin">Qui in fine vitae ſuae recor<g ref="char:EOLhyphen"/>dati ſunt deli<g ref="char:EOLhyphen"/>quiſſe quòd vex<g ref="char:EOLhyphen"/>âſſent Chriſti<g ref="char:EOLhyphen"/>anos.</note> 
+               <hi>when at the point of death, were touch<g ref="char:EOLhyphen"/>ed with ſome remorſe for their Afflicting the In<g ref="char:EOLhyphen"/>nocent Chriſtians:</hi> and that in particular <hi>Vi<g ref="char:EOLhyphen"/>gellius Saturninus,</hi> who firſt drew the Sword of Perſecution againſt them was deprived of his eyes. And that <hi>Claudius Herminianus</hi> in <hi>Cappa<g ref="char:EOLhyphen"/>docia,</hi> after he had handled them with great Cruelty, was, whilſt alone in his <hi>Pretorian</hi> Palace, ſtruck with a ſtrange Plague, and over-run with noiſom Worms; and then he makes a warm and cloſe Addreſs to <hi>Scapula</hi> himſelf; who having lately condemned inno<g ref="char:EOLhyphen"/>cent <hi>Mavilus</hi> to the Beaſts, was ſeized with a ſharp Diſtemper; deſiring him to forbear <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to fight againſt God.</hi>
+            </p>
+            <p>Thus alſo was <hi>Herod Aſcalonita</hi> ſmitten with a ſignal Vengeance from Heaven, after the bloody Maſſacre of thoſe poor Innocents, which he Sacrificed to his Pride and Cruelty: his puniſhment being a complicated Judgment, made up of Tortures both of Soul and Body; his Bowels, which were ſtrangers to all Com<g ref="char:EOLhyphen"/>paſſion, were tortured with an intimate and
+<pb n="19" facs="tcp:97858:12"/>ward heat,<note n="(q)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>a ſlow fire, which to the out<g ref="char:EOLhyphen"/>ward Senſe ſeemed not ſo vehement;</hi> but did inwardly afflict and torment him, as <hi>Joſephus</hi> tells us; and his body was the ſubject of as many Tortures and Convulſi<g ref="char:EOLhyphen"/>ons, as his Mind <hi>was of Terrors and</hi>
+               <note n="(r)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Di<g ref="char:EOLhyphen"/>ſtractions;</hi> every blow he received ſeem<g ref="char:EOLhyphen"/>ed to come from Heaven, and inflicted by the ſtrong hand of an enraged Deity: Eve<g ref="char:EOLhyphen"/>ry Creature (when God calls) is a Souldi<g ref="char:EOLhyphen"/>er to fight for the Good and Innocent; the whole Militia of Heaven, even thouſands of Angels are Auxiliary Forces to them; and this brings me to the ſecond reaſon, why Goodneſs will ſhelter us from all harms, that can ariſe from the <hi>Actions of Men;</hi> and that is,</p>
+            <p n="2">2. Becauſe it procures the good An<g ref="char:EOLhyphen"/>gels for our Guard, <hi>Pſalm</hi> 34.7. <hi>The Angel of the Lord encamps about them that fear him, and delivers them;</hi> Infinite Legions of An<g ref="char:EOLhyphen"/>gels attend God in Heaven, and every ſin<g ref="char:EOLhyphen"/>gle Angel is as ſtrong as a whole Army of Men; one Angel in the Book of Kings, is ſent out againſt an Army of the <hi>Aſſyrians;</hi>
+               <pb n="20" facs="tcp:97858:13"/>and in one Night a Hundred Fourſcore and Five Thouſand perſons dye by his hand; now all the Angels and Hoſt of Heaven are the good man's Lifeguard, and what humane Power is able to withſtand them? The preſence and aſſiſtance of Angels to good men is no new thing, though their apparition is now very rare; they had pe<g ref="char:EOLhyphen"/>culiar care over good Men in antient times. <hi>Lot</hi> was led out of <hi>Sodom</hi> by Angels: And <hi>Matthew chapter</hi> 2. <hi>verſe</hi> 13. <hi>An Angel ap<g ref="char:EOLhyphen"/>peared to Joſeph to warn him to fly into Ae<g ref="char:EOLhyphen"/>gypt, with the young Child, The Holy Jeſus;</hi> whoſe Life was chiefly ſought by <hi>Herod,</hi> when he dy'd and diſcoloured all the Coaſts of <hi>Bethlehem</hi> with the blood of ſo poor In<g ref="char:EOLhyphen"/>nocents. An Angel delivers St. <hi>Peter</hi> out of Priſon, <hi>Acts, chapter</hi> 5. <hi>verſe</hi> 19. An Angel Comforts St. <hi>Paul</hi> in the Tempeſt, <hi>Acts chapter</hi> 27. <hi>verſe</hi> 23. And <hi>Socrates</hi> (in His Eccleſiaſtical Hiſtory) tells us that when the Citizens of <hi>Conſtantinople</hi> were de<g ref="char:EOLhyphen"/>jected, for Fear leaſt the <hi>Perſians</hi> ſhould overcome the <hi>Romans,</hi> to whoſe protection many Chriſtians had committed themſelves, a Company of Angels appeared to ſome,
+<pb n="21" facs="tcp:97858:13"/>who were Travelling to <hi>Conſtantinople,</hi> and bid them chear up the Spirits of the Inha<g ref="char:EOLhyphen"/>bitants with this joyful News, that the <hi>Romans</hi> ſhould defeat the <hi>Perſians,</hi> and come off Victorious. And our own Hiſtorians make mention of a Celeſtial Herald, an Angel from Heaven, who appearing to <hi>JAMES</hi> the Fourth King of <hi>Scotland,</hi> adviſed him not to Fight his intended Bat<g ref="char:EOLhyphen"/>tel with the Engliſh; which Counſel he neglecting, Himſelf with moſt of his No<g ref="char:EOLhyphen"/>bles and Army fell in that fatal Battel.</p>
+            <p>And though the appearance of Angels is not now to be expected by us, becauſe never promiſed; and converſe with them is a Bleſſing which our ſtate of infirmity cannot bear; yet is not their Miniſtry wholly ceaſed, they ſtill (though inviſibly) ſuc<g ref="char:EOLhyphen"/>cour and help us, <hi>Hebrews chapter</hi> 1. <hi>verſe</hi> 14. <hi>are they not all Miniſtring Spirits, ſent forth to Miniſter for them, who ſhall be Heirs of Salvation?</hi> And this ſhall ſuffice for the proof, that goodneſs will protect us from all thoſe harms that men can do us either by Words or Actions. I now proceed to ſhew you.</p>
+            <pb n="22" facs="tcp:97858:14"/>
+            <p>Secondly, That Goodneſs will ſhield us from all the Harms and Miſchiefs that ariſe from Sin. There is incomparably more trouble in the ways of Sin, than in thoſe of Goodneſs and Virtue: Every no<g ref="char:EOLhyphen"/>torious Sin is naturally attended with ſome inconvenience, of Harm, Danger or Diſ<g ref="char:EOLhyphen"/>grace, which the ſinner ſeldom conſiders till the ſin be committed, and then he is in a Labyrinth; and in ſeeking the way out of a preſent inconvenience, he intangles himſelf in more.</p>
+            <p>There is a Divine <hi>Nemeſis</hi> that attends wicked men; and Sin and the Fear of the Divine Vengeance are chained together, as the <hi>Romans</hi> did their Malefactors to the Souldiers who were to be their Keepers and Executioners: The ſinner is almoſt always haunted with inward gripes and twinges of guilt, though ſometimes he is not puniſht here viſibly, nor ſcourged with a market Laſh.</p>
+            <p>And who would not rather dye a thou<g ref="char:EOLhyphen"/>ſand times than live under ſuch a Conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="23" facs="tcp:97858:14"/>whoſe every Accuſation is no leſs than a ſummons to Death?<note n="(ſ)" place="margin">Neque fru<g ref="char:EOLhyphen"/>ſtra ſapientes af<g ref="char:EOLhyphen"/>firmare ſoliti ſunt, ſi recludan<g ref="char:EOLhyphen"/>tur Tyrannorum mentes, ictus poſſe aſpici &amp; laniatus.</note> 
+               <q>It is not for nothing (ſaith the Hiſtorian <hi>Taci<g ref="char:EOLhyphen"/>tus</hi>) that the wiſeſt men have told us, that were the hearts of wicked men laid open, we ſhould ſee their Swellings and Ul<g ref="char:EOLhyphen"/>cers, Stripes and Torments; Here a bruiſe by Impatience, here a ſwelling of Pride, here a deep wound which malice hath made.</q>
+            </p>
+            <p>It is the good man only that leads a Comfortable and Happy Life, whereas wicked mens Lives are Toilſome and Mi<g ref="char:EOLhyphen"/>ſerable, <hi>Jeremiah, chapter</hi> 9. <hi>verſe</hi> 5. <hi>They weary themſelves to commit Iniquity.</hi> They take as much or more pains to go to Hell, than good Men do to go to Heaven.<note n="(t)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <q>Even the things of the Devil are not at<g ref="char:EOLhyphen"/>tained without Labour and Pains, ſaith St. <hi>Chryſoſtom.</hi>
+               </q> How Laborious is our Revenge? How buſie our Cruelty? How Watchful and Studious our Luſt? What Penance does our Covetouſneſs put us to? How ſtrangely does our Envy poſſeſſe us, like an Evil and Malignant Spirit? Which one in <hi>Stobaeus</hi> calls, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the
+<pb n="24" facs="tcp:97858:15"/>Baſeſt Spirit, and yet moſt Juſt, becauſe it puniſhes the Delinquent in the very Act; doing as <hi>Aelian</hi> ſpeaks of the <hi>Polypus,</hi>
+               <note n="(u)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> who, <q>when he wants his prey devours his own Arms, the ſecret pangs of his Envy gnaw and feed upon himſelf:</q> Thus Men become (as I may ſo ſpeak) Martyrs of the Devil and damnation, and the ſubjects of all thoſe Harms and Miſchiefs, that are of ſins retinue, from which they might be freed; if they would once become Proſe<g ref="char:EOLhyphen"/>lytes to Virtue and Goodneſs.</p>
+            <p>Their very Enemies could ſay of the <hi>Athenians,</hi> 
+               <q>That there was nothing that they could count a Feaſt, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the having done what they ought;</q> and if a Chriſtian cannot outvye thoſe Hea<g ref="char:EOLhyphen"/>thens, if he doth not highly eſteem of the Feaſt of a good Conſcience within him, and the Satisfactions that are to be reaped from a good Life, which are preſent Happineſs in themſelves, and pledges of future Glo<g ref="char:EOLhyphen"/>ry; his palate is vitiated, he is no compe<g ref="char:EOLhyphen"/>tent judge of Dainties, And as goodneſs will ſhield its followers from all thoſe harms
+<pb n="25" facs="tcp:97858:15"/>and Miſchiefs that ariſe from Sin, ſo,</p>
+            <p>Thirdly and Laſtly, Will it free them from the Eternal Harms and Torments, which thoſe who are ſtrangers to Goodneſs ſhall ſuffer in Hell. <hi>Lactantius</hi> was ſo hard in believing the roundneſs of the Earth, that he thought that thoſe <hi>Homines Penſiles</hi> (as they call them) thoſe men that hang on the other Cheek of the Face of the Earth, thoſe <hi>Antipodes</hi> (whoſe feet are di<g ref="char:EOLhyphen"/>rectly againſt Ours) muſt needs fall from the Earth; but whither then ſhould they fall? If they fall, they muſt fall upwards, to<g ref="char:EOLhyphen"/>wards Heaven: So good Men, the Spiri<g ref="char:EOLhyphen"/>tual <hi>Antipodes</hi> to Sin, may in ſome ſenſe be ſaid to fall, when they fall to Repentance, to Mortification, and other good Duties, and when they fall off from their Sins; but their fall is upwards, they fall towards Heaven; Hell hath no Power over them; for God hath ſet his mark, ſtampt the Im<g ref="char:EOLhyphen"/>preſs of his Goodneſs upon them; and that is their Protection from all the Arreſts of Satan; That will keep them out of his dark infernal Priſon: Hell is only a place
+<pb n="26" facs="tcp:97858:16"/>for Wicked men; 'tis their proper Center, and the Gravity and Heavineſs of their ſins make them tend thither, <hi>Pſalm</hi> 9.17. <hi>The Wicked ſhall be turned into Hell,</hi> and as the ſtrong Magic of Nature pulls and draws every thing continually to that place, which is ſuitable to it, and to which it belongs; ſo Hell, whereſoever it is, will by a ſtrong ſympathy pull in all ſin, and Magnetically draw it to it ſelf; as on the contrary true Goodneſs is always breathing upwards, and fluttering towards Heaven, ſtriving to Im<g ref="char:EOLhyphen"/>boſom it ſelf with God.</p>
+            <p>We may flatter our ſelves with what conceits we pleaſe, but ſo long as we are void of Goodneſs, we do but Dream of Heaven, and I know not what fond Para<g ref="char:EOLhyphen"/>diſe; we do but Court a painted Heaven, and woe happineſs in a Picture; the glory of Heaven being nothing elſe but innocence enthron'd, and attir'd her in white Robes, and Goodneſs Triumphant; Goodneſs with a Palm of Victory in her hand, and a Crown upon her Head: And how happy will the Good, the Innocent Man be, when he
+<pb n="27" facs="tcp:97858:16"/>ſhall receive that Crown, with this deſerv<g ref="char:EOLhyphen"/>ed Encomium and Commendation? <hi>Euge bone Serve!</hi> Well done Good and Faithful Servant! What a Raviſhment and Tranſ<g ref="char:EOLhyphen"/>port will it be to him? What an Oleo of High Taſts compounded together? O then let us all be Followers of Goodneſs! This, This, is our beſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the beſt Charm againſt all Evils; The beſt Amulet and Preſervative againſt all harms; Our ſafeſt Port, our beſt Haven; here we can never ſuffer Shipwrack, hereno ſtorms can come at us to hurt us; here we are above the Sphere of mens Power to harm us; in this bleſſed Station the Torments of Hell cannot reach or faſten upon us. Goodneſs then is our beſt Aſylum, our beſt Sanctuary, our ſaf<g ref="char:EOLhyphen"/>eſt Refuge, from the harms both of Men and Devils; for ſaith St. <hi>Peter, Who is that will Harm ye, if ye be followers of that which is Good?</hi> Which God grant we may all be, for his Dear Son Jeſus Chriſt his ſake, to whom with the Father, and the Holy Spirit, be all Honour, Glory, and Adora<g ref="char:EOLhyphen"/>tion, both now and Ever, <hi>AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:97858:17"/>
+            <head>Five Sermons lately Publiſhed by the ſame Author, and ſold by <hi>Benj. Billingſley.</hi>
+            </head>
+            <list>
+               <item>1 A Sermon Preached before the Right Honourable the Lord Mayor and Court of Aldermen of the City of <hi>London</hi> at <hi>Guild-hall.</hi>
+               </item>
+               <item>2. The neceſſity of Receiving the Holy Sacrament, declared in a Sermon at a Con<g ref="char:EOLhyphen"/>ference of the ſeveral Miniſters of the Dean<g ref="char:EOLhyphen"/>ry of <hi>Braughin,</hi> in the County of <hi>Hertford,</hi> appointed by the Right Reverend Father in God <hi>Henry</hi> Lord Biſhop of <hi>London</hi> to be held at <hi>Ware.</hi>
+               </item>
+               <item>3. The great Excellency and Uſefulneſs and Neceſſity of Humane Learning.</item>
+               <item>4. The Nature and Cauſes of hardneſs of <hi>Heart,</hi> Together with the Remedies againſt it.</item>
+               <item>5. The Things above proved to be the moſt Proper Objects of the Mind and Af<g ref="char:EOLhyphen"/>fections. All Three Preached before the Univerſity, at Great St. <hi>Maries</hi> Church in <hi>Cambridge.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
